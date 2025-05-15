@@ -9,3 +9,6 @@ CERCS: P176 Artificial intelligence
 
 File for the thesis scripts:
 Loputoo_LLM_API_paringud.ipynb
+
+To download syntax_morphology_conflicts.db from EstNLTK:
+https://github.com/estnltk/syntax_experiments/tree/verb_templates/workflows/004_analysis_of_known_verb_rection_patterns/004_extracting_syntax_morphology_conflicts/example_data
