@@ -6,3 +6,6 @@ The Bachelor's thesis focuses on finding cost-effective ways to resolve syntax-m
 Keywords: Python programming language, Natural Language Processing, Large Language Models, Syntax and morphology
 
 CERCS: P176 Artificial intelligence
+
+File for the thesis scripts:
+Loputoo_LLM_API_paringud.ipynb
